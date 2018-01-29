@@ -1,0 +1,89 @@
+/* .back {
+background-color: black;
+margin: 0px;
+} */
+
+
+.main {
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  background-color: black;
+  opacity: 0.8;
+}
+
+.lower {
+  float: left;
+}
+
+.top-left {
+  float: right;
+}
+
+.links {
+  color: white;
+  list-style: none;
+  margin: 0;
+  padding: 70;
+}
+
+.links li {
+  display: inline;
+  padding-bottom: 2px;
+  page-break-after: 20px;
+  float:
+}
+
+
+
+#trump {
+  border-radius: 50%;
+  border: 2px solid white;
+  border-radius: solid;
+  max-width: 50px;
+  float: right;
+  margin-right: 25px;
+}
+
+h1 {
+  color: white;
+  font-size: 3em;
+  font-family: helvetica;
+  padding: 35px;
+}
+
+
+
+
+
+.column-right {
+
+    height: 800px;
+    width: 250px;
+    background-color: black;
+    opacity: 0.3;
+    margin-left: 10%;
+    margin-top: 0.1rem;
+    float: right;
+    position: relative;
+    clear: both;
+    padding-top: 1rem;
+
+
+
+}
+
+
+.photo-link {
+  float: right;
+  justify-content: space-between;
+}
+
+
+
+
+h2 {
+  color: white;
+  font-size: 1em;
+  font-family: helvetica;
+}
